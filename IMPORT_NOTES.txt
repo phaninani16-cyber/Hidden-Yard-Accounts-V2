@@ -1,0 +1,1 @@
+Full V4 built from 30092026(1).xlsx. Includes 15-Sep and 16-Sep missing sales: 1630 cash, 1882 UPI, 2150 cash, 2109 UPI. Historical sales through 30-Sep = 102461. Local-only. Do not clear Safari website data when updating.
