@@ -1,1 +1,0 @@
-Version 2 imported all 293 rows from the uploaded workbook's Transaction Detail sheet. Dates span 2026-08-01 to 2026-09-29. The app stores the imported history locally and allows new/corrected entries.
